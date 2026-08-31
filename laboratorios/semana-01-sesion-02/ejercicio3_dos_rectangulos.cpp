@@ -4,11 +4,6 @@
 // armado con funciones sueltas y 4 variables independientes. Tiene un bug.
 //
 // TODO (prediccion, escribe tu respuesta como comentario justo aqui):
-// esta en la linea que imprime el perimetro y area del rectangulo 2, cuando llama a la función
-// area y perímetro los argumentos utilizados son incorrectos y a que usa altura1 en vez de altura2
-// código corregido:
-//std::cout << "Rectangulo 2, Area: " << area(base2, altura2)
-//              << ", Perimetro: " << perimetro(base2, altura2) << std::endl;
 // En que linea esta el bug, y que deberia decir en su lugar?
 //
 //
